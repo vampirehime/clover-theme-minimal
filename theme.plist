@@ -33,13 +33,13 @@
 			<key>Functions</key>
 			<true/>
 			<key>Help</key>
-			<false/>
+			<true/>
 			<key>Label</key>
-			<false/>
+			<true/>
 			<key>MenuTitle</key>
 			<true/>
 			<key>Revision</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Font</key>
 		<dict>
